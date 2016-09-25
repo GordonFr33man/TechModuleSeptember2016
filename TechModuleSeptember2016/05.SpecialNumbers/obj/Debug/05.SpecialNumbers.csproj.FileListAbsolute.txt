@@ -1,0 +1,5 @@
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb

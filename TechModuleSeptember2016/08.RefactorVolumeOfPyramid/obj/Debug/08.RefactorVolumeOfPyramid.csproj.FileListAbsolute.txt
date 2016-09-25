@@ -1,0 +1,9 @@
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.exe.config
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.pdb
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.csprojResolveAssemblyReference.cache
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.pdb
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.exe.config
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.exe
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.pdb

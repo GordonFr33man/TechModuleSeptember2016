@@ -1,0 +1,8 @@
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\07.Greeting\bin\Debug\07.Greeting.exe.config
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\07.Greeting\bin\Debug\07.Greeting.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\07.Greeting\bin\Debug\07.Greeting.pdb
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\07.Greeting\obj\Debug\07.Greeting.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\07.Greeting\obj\Debug\07.Greeting.pdb
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\07.Greeting\bin\Debug\07.Greeting.exe.config
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\07.Greeting\obj\Debug\07.Greeting.exe
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\07.Greeting\obj\Debug\07.Greeting.pdb
