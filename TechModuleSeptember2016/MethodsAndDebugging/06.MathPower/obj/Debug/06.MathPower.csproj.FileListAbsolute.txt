@@ -1,0 +1,8 @@
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\06.MathPower\obj\Debug\06.MathPower.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\06.MathPower\obj\Debug\06.MathPower.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\06.MathPower\obj\Debug\06.MathPower.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\06.MathPower\obj\Debug\06.MathPower.pdb

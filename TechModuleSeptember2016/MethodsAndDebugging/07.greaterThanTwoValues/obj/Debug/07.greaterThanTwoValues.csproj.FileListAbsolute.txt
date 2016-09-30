@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\07.greaterThanTwoValues\bin\Debug\07.greaterThanTwoValues.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\07.greaterThanTwoValues\obj\Debug\07.greaterThanTwoValues.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\07.greaterThanTwoValues\bin\Debug\07.greaterThanTwoValues.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\07.greaterThanTwoValues\bin\Debug\07.greaterThanTwoValues.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\07.greaterThanTwoValues\obj\Debug\07.greaterThanTwoValues.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\07.greaterThanTwoValues\obj\Debug\07.greaterThanTwoValues.pdb

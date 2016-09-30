@@ -1,0 +1,5 @@
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\04.drawAFilledSquare\bin\Debug\04.drawAFilledSquare.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\04.drawAFilledSquare\bin\Debug\04.drawAFilledSquare.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\04.drawAFilledSquare\bin\Debug\04.drawAFilledSquare.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\04.drawAFilledSquare\obj\Debug\04.drawAFilledSquare.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\04.drawAFilledSquare\obj\Debug\04.drawAFilledSquare.pdb

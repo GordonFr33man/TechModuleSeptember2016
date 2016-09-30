@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.pdb

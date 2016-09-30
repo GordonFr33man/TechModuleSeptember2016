@@ -1,0 +1,9 @@
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.pdb

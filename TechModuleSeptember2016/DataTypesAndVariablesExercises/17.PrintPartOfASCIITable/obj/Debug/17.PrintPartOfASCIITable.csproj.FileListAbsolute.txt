@@ -1,0 +1,1 @@
+D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.exe.config

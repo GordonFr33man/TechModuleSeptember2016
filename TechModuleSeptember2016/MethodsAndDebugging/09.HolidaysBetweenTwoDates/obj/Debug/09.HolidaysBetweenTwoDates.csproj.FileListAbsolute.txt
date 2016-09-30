@@ -1,0 +1,5 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebugging\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.pdb
