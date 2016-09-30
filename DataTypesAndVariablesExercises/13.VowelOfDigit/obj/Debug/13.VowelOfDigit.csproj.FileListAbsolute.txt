@@ -1,1 +1,0 @@
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\13.VowelOfDigit\bin\Debug\13.VowelOfDigit.exe.config

@@ -1,6 +1,0 @@
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe.config
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.pdb
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.csprojResolveAssemblyReference.cache
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.exe
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.pdb

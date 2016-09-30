@@ -1,1 +1,0 @@
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\08.EmployeeData\bin\Debug\08.EmployeeData.exe.config

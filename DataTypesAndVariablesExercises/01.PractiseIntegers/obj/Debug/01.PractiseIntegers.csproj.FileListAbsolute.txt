@@ -1,6 +1,0 @@
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\01.PractiseIntegers\bin\Debug\01.PractiseIntegers.exe.config
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\01.PractiseIntegers\bin\Debug\01.PractiseIntegers.exe
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\01.PractiseIntegers\bin\Debug\01.PractiseIntegers.pdb
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\01.PractiseIntegers\obj\Debug\01.PractiseIntegers.csprojResolveAssemblyReference.cache
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\01.PractiseIntegers\obj\Debug\01.PractiseIntegers.exe
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\01.PractiseIntegers\obj\Debug\01.PractiseIntegers.pdb

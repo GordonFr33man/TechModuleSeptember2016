@@ -1,1 +1,0 @@
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\10.CenturiestoNanoseconds\bin\Debug\10.CenturiestoNanoseconds.exe.config

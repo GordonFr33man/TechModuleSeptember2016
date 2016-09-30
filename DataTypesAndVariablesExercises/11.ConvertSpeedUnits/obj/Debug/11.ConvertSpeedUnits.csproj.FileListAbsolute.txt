@@ -1,1 +1,0 @@
-D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
