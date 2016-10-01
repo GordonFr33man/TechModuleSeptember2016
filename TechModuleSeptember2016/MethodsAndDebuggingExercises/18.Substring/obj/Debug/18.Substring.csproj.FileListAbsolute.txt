@@ -1,0 +1,5 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\18.Substring\bin\Debug\18.Substring.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\18.Substring\bin\Debug\18.Substring.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\18.Substring\bin\Debug\18.Substring.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\18.Substring\obj\Debug\18.Substring.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\18.Substring\obj\Debug\18.Substring.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\13.Factorial\bin\Debug\13.Factorial.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\13.Factorial\bin\Debug\13.Factorial.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\13.Factorial\bin\Debug\13.Factorial.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\13.Factorial\obj\Debug\13.Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\13.Factorial\obj\Debug\13.Factorial.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\13.Factorial\obj\Debug\13.Factorial.pdb

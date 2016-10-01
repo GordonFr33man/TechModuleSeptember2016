@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\05.FibonacciSequence\bin\Debug\05.FibonacciSequence.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\05.FibonacciSequence\bin\Debug\05.FibonacciSequence.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\05.FibonacciSequence\bin\Debug\05.FibonacciSequence.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\05.FibonacciSequence\obj\Debug\05.FibonacciSequence.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\05.FibonacciSequence\obj\Debug\05.FibonacciSequence.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\05.FibonacciSequence\obj\Debug\05.FibonacciSequence.pdb

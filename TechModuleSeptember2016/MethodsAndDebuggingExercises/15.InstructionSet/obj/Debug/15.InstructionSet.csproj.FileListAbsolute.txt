@@ -1,0 +1,5 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\15.InstructionSet\bin\Debug\15.InstructionSet.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\15.InstructionSet\bin\Debug\15.InstructionSet.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\15.InstructionSet\bin\Debug\15.InstructionSet.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\15.InstructionSet\obj\Debug\15.InstructionSet.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\15.InstructionSet\obj\Debug\15.InstructionSet.pdb

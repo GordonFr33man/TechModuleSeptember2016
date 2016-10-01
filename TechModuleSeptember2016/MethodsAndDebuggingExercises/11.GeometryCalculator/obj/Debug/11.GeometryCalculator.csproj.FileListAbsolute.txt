@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.pdb

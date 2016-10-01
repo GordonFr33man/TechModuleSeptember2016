@@ -1,0 +1,9 @@
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\bin\Debug\06.PrimeCheker.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\bin\Debug\06.PrimeCheker.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\bin\Debug\06.PrimeCheker.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\obj\Debug\06.PrimeCheker.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\obj\Debug\06.PrimeCheker.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\obj\Debug\06.PrimeCheker.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\bin\Debug\06.PrimeCheker.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\obj\Debug\06.PrimeCheker.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\06.PrimeCheker\obj\Debug\06.PrimeCheker.pdb
