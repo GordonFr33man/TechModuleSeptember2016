@@ -1,0 +1,5 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndList\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndList\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndList\06.ReverseArrayOfStrings\obj\Debug\06.ReverseArrayOfStrings.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\06.ReverseArrayOfStrings\obj\Debug\06.ReverseArrayOfStrings.pdb

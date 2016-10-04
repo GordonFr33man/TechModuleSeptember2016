@@ -1,0 +1,5 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndList\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndList\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndList\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.pdb

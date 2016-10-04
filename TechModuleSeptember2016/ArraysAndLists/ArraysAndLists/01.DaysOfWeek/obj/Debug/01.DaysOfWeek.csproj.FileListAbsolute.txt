@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndList\01.DaysOfWeek\bin\Debug\01.DaysOfWeek.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndList\01.DaysOfWeek\bin\Debug\01.DaysOfWeek.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\01.DaysOfWeek\bin\Debug\01.DaysOfWeek.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndList\01.DaysOfWeek\obj\Debug\01.DaysOfWeek.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\ArraysAndList\01.DaysOfWeek\obj\Debug\01.DaysOfWeek.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\01.DaysOfWeek\obj\Debug\01.DaysOfWeek.pdb

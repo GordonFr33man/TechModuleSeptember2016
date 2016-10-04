@@ -1,0 +1,5 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndList\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndList\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndList\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.pdb

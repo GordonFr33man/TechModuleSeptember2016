@@ -1,0 +1,5 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndList\04.TripleSum\bin\Debug\04.TripleSum.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndList\04.TripleSum\bin\Debug\04.TripleSum.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\04.TripleSum\bin\Debug\04.TripleSum.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndList\04.TripleSum\obj\Debug\04.TripleSum.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndList\04.TripleSum\obj\Debug\04.TripleSum.pdb
