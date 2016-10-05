@@ -1,0 +1,9 @@
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe.config
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.pdb
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.pdb
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe.config
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.exe
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.pdb

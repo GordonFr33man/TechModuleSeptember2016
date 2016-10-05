@@ -1,0 +1,5 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.pdb

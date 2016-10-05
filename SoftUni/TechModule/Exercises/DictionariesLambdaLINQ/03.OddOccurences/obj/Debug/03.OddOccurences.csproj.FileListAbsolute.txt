@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\03.OddOccurences\bin\Debug\03.OddOccurences.exe.config
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\03.OddOccurences\bin\Debug\03.OddOccurences.exe
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\03.OddOccurences\bin\Debug\03.OddOccurences.pdb
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\03.OddOccurences\obj\Debug\03.OddOccurences.exe
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\03.OddOccurences\obj\Debug\03.OddOccurences.pdb
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\03.OddOccurences\obj\Debug\03.OddOccurences.csprojResolveAssemblyReference.cache

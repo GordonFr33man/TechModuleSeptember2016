@@ -1,0 +1,10 @@
+D:\СофтУни\TechModule\Exercises\Solution1\01.HelloName!\bin\Debug\01.HelloName!.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\bin\Debug\01.HelloName!.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\bin\Debug\01.HelloName!.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\bin\Debug\01.HelloName!.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\obj\Debug\01.HelloName!.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\obj\Debug\01.HelloName!.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\obj\Debug\01.HelloName!.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\bin\Debug\01.HelloName!.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\obj\Debug\01.HelloName!.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\01.HelloName!\obj\Debug\01.HelloName!.pdb

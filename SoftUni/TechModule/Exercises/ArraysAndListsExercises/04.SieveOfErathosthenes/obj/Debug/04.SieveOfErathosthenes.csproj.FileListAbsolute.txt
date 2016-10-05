@@ -1,0 +1,5 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\04.SieveOfErathosthenes\bin\Debug\04.SieveOfErathosthenes.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\04.SieveOfErathosthenes\bin\Debug\04.SieveOfErathosthenes.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\04.SieveOfErathosthenes\bin\Debug\04.SieveOfErathosthenes.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\04.SieveOfErathosthenes\obj\Debug\04.SieveOfErathosthenes.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\04.SieveOfErathosthenes\obj\Debug\04.SieveOfErathosthenes.pdb

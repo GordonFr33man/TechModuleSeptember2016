@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.pdb

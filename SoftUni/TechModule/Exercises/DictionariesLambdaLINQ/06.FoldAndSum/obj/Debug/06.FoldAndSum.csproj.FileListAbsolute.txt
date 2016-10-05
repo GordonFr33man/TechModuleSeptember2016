@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\06.FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\06.FoldAndSum\obj\Debug\06.FoldAndSum.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\06.FoldAndSum\obj\Debug\06.FoldAndSum.exe
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\06.FoldAndSum\obj\Debug\06.FoldAndSum.pdb

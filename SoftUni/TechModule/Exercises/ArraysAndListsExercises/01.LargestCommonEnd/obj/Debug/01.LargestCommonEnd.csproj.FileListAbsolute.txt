@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\01.LargestCommonEnd\bin\Debug\01.LargestCommonEnd.exe.config
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\01.LargestCommonEnd\bin\Debug\01.LargestCommonEnd.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\01.LargestCommonEnd\bin\Debug\01.LargestCommonEnd.pdb
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\01.LargestCommonEnd\obj\Debug\01.LargestCommonEnd.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\01.LargestCommonEnd\obj\Debug\01.LargestCommonEnd.exe
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\01.LargestCommonEnd\obj\Debug\01.LargestCommonEnd.pdb

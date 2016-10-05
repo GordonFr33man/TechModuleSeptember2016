@@ -1,0 +1,6 @@
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.exe.config
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.exe
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.pdb
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.csprojResolveAssemblyReference.cache
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.exe
+D:\СофтУни\TechModule\Exercises\DictionariesLambdaLINQ\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.pdb

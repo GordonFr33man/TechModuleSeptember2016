@@ -1,0 +1,1 @@
+D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe.config

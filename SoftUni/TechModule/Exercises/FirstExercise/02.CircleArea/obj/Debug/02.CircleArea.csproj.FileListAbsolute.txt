@@ -1,0 +1,8 @@
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\02.CircleArea\bin\Debug\02.CircleArea.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\02.CircleArea\bin\Debug\02.CircleArea.pdb
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\02.CircleArea\obj\Debug\02.CircleArea.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\02.CircleArea\obj\Debug\02.CircleArea.pdb
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\02.CircleArea\obj\Debug\02.CircleArea.exe
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\02.CircleArea\obj\Debug\02.CircleArea.pdb

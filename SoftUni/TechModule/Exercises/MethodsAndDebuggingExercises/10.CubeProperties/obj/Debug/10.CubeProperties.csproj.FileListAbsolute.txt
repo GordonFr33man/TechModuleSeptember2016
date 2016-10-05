@@ -1,0 +1,5 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\10.CubeProperties\bin\Debug\10.CubeProperties.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\10.CubeProperties\bin\Debug\10.CubeProperties.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\10.CubeProperties\bin\Debug\10.CubeProperties.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\10.CubeProperties\obj\Debug\10.CubeProperties.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\10.CubeProperties\obj\Debug\10.CubeProperties.pdb

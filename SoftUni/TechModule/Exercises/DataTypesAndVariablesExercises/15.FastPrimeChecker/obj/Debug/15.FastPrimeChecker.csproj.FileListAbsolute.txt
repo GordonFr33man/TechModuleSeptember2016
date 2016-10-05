@@ -1,0 +1,1 @@
+D:\SoftUni\TechModule\DataTypesAndVariablesExercise\DataTypesAndVariablesExercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe.config

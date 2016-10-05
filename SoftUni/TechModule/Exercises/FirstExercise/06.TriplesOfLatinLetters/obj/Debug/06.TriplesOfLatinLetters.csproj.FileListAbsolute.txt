@@ -1,0 +1,9 @@
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe.config
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.pdb
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.exe
+D:\СофтУни\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.pdb
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe.config
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.exe
+D:\SoftUni\DataTypesAndVariables(21.09.2016)\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.pdb

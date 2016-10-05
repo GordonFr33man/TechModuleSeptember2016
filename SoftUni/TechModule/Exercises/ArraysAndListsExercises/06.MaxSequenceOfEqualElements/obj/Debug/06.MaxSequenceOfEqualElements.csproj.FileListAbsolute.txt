@@ -1,0 +1,1 @@
+D:\СофтУни\TechModule\Exercises\ArraysAndListsExercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.exe.config

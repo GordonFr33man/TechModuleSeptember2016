@@ -1,0 +1,6 @@
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\09.LongerLine\bin\Debug\09.LongerLine.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\09.LongerLine\bin\Debug\09.LongerLine.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\09.LongerLine\bin\Debug\09.LongerLine.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\09.LongerLine\obj\Debug\09.LongerLine.csprojResolveAssemblyReference.cache
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\09.LongerLine\obj\Debug\09.LongerLine.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\09.LongerLine\obj\Debug\09.LongerLine.pdb

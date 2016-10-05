@@ -1,0 +1,8 @@
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe.config
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.pdb
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.exe
+D:\СофтУни\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.pdb
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe.config
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.exe
+D:\SoftUni\TechModule\Exercises\MethodsAndDebuggingExercises\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.pdb
